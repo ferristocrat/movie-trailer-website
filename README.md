@@ -1,4 +1,4 @@
-# movie-trailer-website
+# Movie Trailer Website
 Udacity Full Stack Web Development - Project 1: Movie Trailer Website
 ## Synopsis
 
